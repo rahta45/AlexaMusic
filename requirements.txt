@@ -5,6 +5,7 @@ dnspython
 ffmpeg-python
 Flask
 gitpython
+jinja2
 gunicorn==20.1.0
 hachoir
 heroku3==5.1.4
